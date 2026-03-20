@@ -11,7 +11,7 @@ This is a simple number guessing game written in Python.
 ▶️ How to run
 
 Run this command in terminal:
-python main.py
+python guessgame.py
 
 🎯 Features
 
